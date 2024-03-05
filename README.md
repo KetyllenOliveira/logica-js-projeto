@@ -25,5 +25,5 @@ Você é encorajado a contribuir para o projeto! Siga os passos abaixo para come
 5. Teste suas alterações.
 6. Commit e faça push para o seu fork: `git push origin nome-da-sua-branch`.
 7. Abra um pull request para revisão.
-
+8. Doc na branch doc
 
